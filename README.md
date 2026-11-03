@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  📍 India &nbsp;|&nbsp; Turning Data into Actionable Insights
+  📍 India | Turning Data into Actionable Insights
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 I'm a Data Analyst passionate about transforming raw data into meaningful business insights and building data-driven solutions.
 
 - 🔍 Experienced in Data Analysis, Reporting and Data Visualization.
-- 🐍 Working with Python, SQL, PySpark and SAS.
+- 🐍 Skilled in Python, SQL, PySpark and SAS.
 - 📊 Building interactive dashboards using Power BI and Tableau.
 - 🤖 Exploring Machine Learning, Predictive Analytics and NLP.
 - 📈 Interested in solving real-world business problems through data.
@@ -138,15 +138,24 @@ A SQL-based logistics analysis project focused on exploring shipment operations 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjoymondal677&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjoymondal677&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjoymondal677&theme=tokyonight" width="95%" alt="GitHub Profile Details"/>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=sanjoymondal677&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjoymondal677&theme=tokyonight" width="45%" alt="Repositories Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjoymondal677&theme=tokyonight" width="45%" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjoymondal677&theme=tokyonight" width="45%" alt="GitHub Statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjoymondal677&theme=tokyonight&utcOffset=5.5" width="45%" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjoymondal677&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
